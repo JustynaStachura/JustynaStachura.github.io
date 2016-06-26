@@ -26,3 +26,8 @@ section {
 .row {padding-top: 30px;}
 
 section#research .pad {padding-top:100px;}
+
+.navbar-shrink img {
+    width: 80%;
+    height: 80%;
+}
