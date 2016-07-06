@@ -31,3 +31,37 @@ section#research .pad {padding-top:60px;}
     width: 80%;
     height: 80%;
 }
+.navbar-default .nav li .active a,
+.navbar-default .nav li a:hover {
+    color:white;
+    padding-bottom: 8px;
+	border-bottom: 3px solid #FFF;
+}
+
+.navbar-default .navbar-nav>.active>a {
+    color:white;
+	border-radius: 0px;
+}
+
+.navbar-nav>li {
+	margin-right: 10px;
+}
+
+.btn.btn-xl  {
+    border-width:3px;
+    border-color:black;
+    color:black;
+    background-color: transparent;
+}
+
+
+.btn.btn-xl:hover {
+    color:white;
+    background-color: black;
+}
+
+ul.social-buttons li a:hover,
+ul.social-buttons li a:focus,
+ul.social-buttons li a:active {
+    background-color: #222;
+}

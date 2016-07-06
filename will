@@ -1,0 +1,14 @@
+.nav .active a,
+.nav a:hover {
+	border-bottom: 3px solid #FFF;
+}
+
+.navbar-default .navbar-nav>.active>a {
+	border-radius
+}
+.navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a {
+	remove pink
+}
+.navbar-nav>li {
+	margin-right: 5px;
+}
