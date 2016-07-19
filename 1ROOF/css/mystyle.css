@@ -6,14 +6,15 @@
 
 .navbar-default .nav li a:hover,
 .navbar-default .nav li a:focus {
+color:white;
     outline: 0;
-    color: #fed136;
+    
 }
 
 .navbar-default .navbar-nav>.active>a:hover,
 .navbar-default .navbar-nav>.active>a:focus,
 .navbar-default .navbar-nav>.active>a {
-    color: #fed136;
+    
     background-color: inherit;
 }
 
@@ -32,7 +33,7 @@ section#research .pad {padding-top:100px;}
     height: 80%;
 }
 
-.navbar-default .nav li .active a,
+.navbar-default .nav li.active a,
 .navbar-default .nav li a:hover {
     color:white;
     padding-bottom: 8px;
