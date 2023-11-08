@@ -1,0 +1,1545 @@
+﻿<!doctype html>
+<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US" class="touch-styles ">
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <!-- This is Squarespace. --><!-- justynajones -->
+<!-- Removed by WebCopy --><!--<base href="">--><!-- Removed by WebCopy -->
+<meta charset="utf-8">
+<title>Money transfer with Samsung (Service Design) &mdash; JUSTYNA JONES</title>
+<meta http-equiv="Accept-CH" content="Sec-CH-UA-Platform-Version, Sec-CH-UA-Model"><link rel="shortcut icon" type="image/x-icon" href="content/v1/5b97ec3a4cde7abfd97e62c3/1537894357002-2H4BF8KSC4L3XZHKNHDR/favicon.ico?format=100w">
+<link rel="canonical" href="international-payments-service-design-1.html">
+<meta property="og:site_name" content="JUSTYNA JONES">
+<meta property="og:title" content="Money transfer with Samsung (Service Design) &mdash; JUSTYNA JONES">
+<meta property="og:url" content="http://www.justynajones.com/international-payments-service-design">
+<meta property="og:type" content="website">
+<meta itemprop="name" content="Money transfer with Samsung (Service Design) — JUSTYNA JONES">
+<meta itemprop="url" content="http://www.justynajones.com/international-payments-service-design">
+<meta name="twitter:title" content="Money transfer with Samsung (Service Design) — JUSTYNA JONES">
+<meta name="twitter:url" content="http://www.justynajones.com/international-payments-service-design">
+<meta name="twitter:card" content="summary">
+<meta name="description" content="">
+<link rel="preconnect" href="index-2.htm">
+<script type="text/javascript" src="ik/XbzfqeKfOchmbm7RFpn3Q__yEoN7psLj07tPdl6_EIMfeltgfFHN4UJLFRbh52jhWDmK5Qi8jDFyFeFqZQiyjcZq5Qi8FR4RwU7wMPG0-1mDiY80jATzdcmDO1FUiABkZWF3jAF8OcFzdPU7iWFXpAoy-cN0ZWw0jhNlOeTuSasodcB7dho8SkoDSWmyScmDSeBRZPoRdhXCdeN.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<link rel="stylesheet" type="text/css" href="css2?family=Chivo:ital,wght@0,400;0,900;1,400;1,900">
+<script type="text/javascript" crossorigin="anonymous" defer="defer" nomodule="nomodule" src="%40sqs/polyfiller/1.6/legacy.js"></script>
+<script type="text/javascript" crossorigin="anonymous" defer="defer" src="%40sqs/polyfiller/1.6/modern.js"></script>
+<script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-8ac43c2d16b389ced7f02-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
+<script crossorigin="anonymous" src="universal/scripts-compressed/extract-css-runtime-8ac43c2d16b389ced7f02-min.en-US.js" defer=""></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-5082e2dab696b020ac83a-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
+<script crossorigin="anonymous" src="universal/scripts-compressed/extract-css-moment-js-vendor-5082e2dab696b020ac83a-min.en-US.js" defer=""></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-ebb5521f1537302c83345-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
+<script crossorigin="anonymous" src="universal/scripts-compressed/cldr-resource-pack-ebb5521f1537302c83345-min.en-US.js" defer=""></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-ad6fc5b14d9d8d4da42d6-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
+<script crossorigin="anonymous" src="universal/scripts-compressed/common-vendors-stable-ad6fc5b14d9d8d4da42d6-min.en-US.js" defer=""></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-ca998c7dbdb66b29ad427-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
+<script crossorigin="anonymous" src="universal/scripts-compressed/common-vendors-ca998c7dbdb66b29ad427-min.en-US.js" defer=""></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-d35db4582a2cbc61aa008-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script crossorigin="anonymous" src="universal/scripts-compressed/common-d35db4582a2cbc61aa008-min.en-US.js" defer=""></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-07180fc57f792069a06b1-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
+<script crossorigin="anonymous" src="universal/scripts-compressed/performance-07180fc57f792069a06b1-min.en-US.js" defer=""></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-f4d0970a083e20bc79577-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-702bf18174efe0acaa8ce-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-87d9b1b12eb6905680044-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-7999ce511ae435e0cf621-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-49c4a5f3dae67a728e3f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-0d0a0159c28fd5daa0696-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-53c004ac7d4bde1c92e38-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-6afda0c0cc762f09e5985-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-cb7553e34a4da425817c4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-6ab7096f3a010b6d1481d-min.en-US.js"},"squarespace-custom-css-popup":{"css":"//assets.squarespace.com/universal/styles-compressed/custom-css-popup-af880b8e69784976817db-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/custom-css-popup-b58f2d6b30c366693af11-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-8905a26340935e58b3667-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-f048385afc20277077c10-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-49c4a5f3dae67a728e3f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-5b440590da811eaec52d5-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-d888cb9ba2f8df6237b79-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-4a16a8a8c965386db2173-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-1e4600304f350b59b6467-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-776b68d0222c8b5c915d7-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-444f5cddd6d25897ae431-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-04a1b92c86ace2b0cd2d9-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-948192219c3257f767ec5-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-606151abe6ab065f5709c-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-4a16a8a8c965386db2173-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-3a505d5a4305121fb1942-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-3280732f7382ceb8c820f-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-6f0fe31c72d8ea933dbcb-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-9d0a55de1efafbb9218e1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-e2f5475276e28408edf1f-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-d34894e75b990b22b56a9-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-ef94529873378652e6e86-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-892a9e5031ade4cf7b070-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-1f18e025ea682ade6293a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-9ba0e11528cea3c1cff08-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-2cb9171e0df311e008ff4-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-7cecc648f858e6f692130-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-4a6779d36b961c92a4268-min.en-US.js"}},"pageType":1,"website":{"id":"5b97ec3a4cde7abfd97e62c3","identifier":"justynajones","websiteType":1,"contentModifiedOn":1626156086857,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"Europe/London","machineTimeZoneOffset":3600000,"timeZoneOffset":3600000,"timeZoneAbbr":"BST","siteTitle":"JUSTYNA JONES","fullSiteTitle":"Money transfer with Samsung (Service Design) \u2014 JUSTYNA JONES","siteDescription":"","shareButtonOptions":{"2":true,"7":true,"8":true,"1":true},"authenticUrl":"http://www.justynajones.com","internalUrl":"http://justynajones.squarespace.com","baseUrl":"http://www.justynajones.com","primaryDomain":"www.justynajones.com","sslSetting":1,"isHstsEnabled":false,"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"5b97ec3a4cde7abfd97e62c5","websiteId":"5b97ec3a4cde7abfd97e62c3","subjects":[],"country":"GB","state":"ENG","simpleLikingEnabled":true,"popupOverlaySettings":{"style":1,"enabledPages":[]},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["CHF","HKD","MXN","EUR","DKK","USD","CAD","MYR","NOK","THB","AUD","SGD","ILS","PLN","GBP","CZK","SEK","NZD","PHP","RUB"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsSuccessText":"","restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false,"displayImportedProductReviewsEnabled":false,"hasOptedToCollectNativeReviews":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":""},"websiteCloneable":false,"collection":{"title":"Money transfer with Samsung (Service Design)","id":"5cd18ab9eef1a1c8a9889a93","fullUrl":"/international-payments-service-design","type":1,"permissionType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"align-alternate-caption-to-image":"false","aspect-ratio":"Auto","auto-color-banner-background":"false","auto-color-index-item-bg":"false","banner-height":"Small","banner-image-alignment":"Center","banner-image-crop":"false","collapse-landscape-spacing":"false","full-bleed-banner":"false","full-bleed-index":"false","full-bleed-project":"false","gallery-arrow-style":"No Background","gallery-aspect-ratio":"3:2 Standard","gallery-auto-crop":"true","gallery-autoplay":"false","gallery-design":"Grid","gallery-info-overlay":"Show on Hover","gallery-loop":"false","gallery-navigation":"Bullets","gallery-show-arrows":"true","gallery-transitions":"Fade","galleryArrowBackground":"rgba(34,34,34,1)","galleryArrowColor":"rgba(255,255,255,1)","galleryAutoplaySpeed":"3","galleryCircleColor":"rgba(255,255,255,1)","galleryInfoBackground":"rgba(0, 0, 0, .7)","galleryThumbnailSize":"100px","gridSize":"400px","gridSpacing":"50px","index-item-alternate-sides":"false","index-item-alternate-widths":"false","index-item-category-background":"false","index-item-height":"Medium","index-item-image-alignment":"Center","index-item-image-crop":"true","index-item-title-background":"false","index-item-title-display":"On Hover","index-item-width":"Half","indexItemWidth":"4","indexItemsPerRow":"3","mobileItemsPerRow":"2","project-image-alignment":"Center","project-image-landscape-caption-style":"Offset","project-image-portrait-caption-style":"Alternate","project-left-image-landscape-caption-style":"Standard","project-left-image-portrait-caption-style":"Standard","project-right-image-landscape-caption-style":"Standard","project-right-image-portrait-caption-style":"Standard","tabletItemsPerRow":"2","thumbnailRatio":"150","tweak-blog-list-columns":"2","tweak-blog-list-item-image-aspect-ratio-grid":"3:2 Standard","tweak-blog-list-item-image-aspect-ratio-stacked":"1:1 Square","tweak-blog-list-item-image-show":"true","tweak-blog-list-spacing":"80px","tweak-blog-list-style":"Grid","tweak-mobile-bar-position":"Top Fixed","tweak-mobile-bar-site-tagline-position":"Below Branding","tweak-page-transition-animation":"true","tweak-product-item-image-zoom-factor":"2.5","tweak-product-list-item-hover-behavior":"Show Alternate Image","tweak-product-list-items-per-row":"3","tweak-project-slide-transition":"true","tweak-related-products-items-per-row":"3","tweak-related-products-title-spacing":"50px","tweak-site-ajax-loading-enable":"true"},"templateId":"55dccafee4b04b8e0d7b6d4d","templateVersion":"7","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/ta/55dccaa0e4b0f748d9f6f215/962/scripts/","betaFeatureFlags":["scripts_defer","commerce_etsy_shipping_import","customer_accounts_email_verification","commerce_etsy_product_import","campaigns_discount_section_in_blasts","crm_waitlist_enforce_recaptcha_v3_enterprise","member_areas_schedule_interview","fluid_engine","fluid_engine_clean_up_grid_contextual_change","background_art_onboarding","accounting_orders_sync","use_migrated_member_site_permission_checker","crm_enforce_recaptcha_v3_enterprise","viewer-role-contributor-invites","commerce_order_status_access","order_status_page_checkout_landing_enabled","member_areas_provisioning_service","crm_utilize_static_asset_system","campaigns_global_uc_ab","campaigns_import_discounts","marketing_landing_page","site_user_email_change","is_feature_gate_refresh_enabled","commerce_site_visitor_metrics","crm_remove_subscriber","nested_categories_migration_enabled","visitor_react_forms","campaigns_content_editing_survey","multilingual_transactional_emails","customer_account_creation_recaptcha","campaigns_discount_section_in_automations","crm_retention_segment","campaigns_thumbnail_layout","commerce_clearpay","campaigns_asset_picker","commerce_restock_notifications","send_local_pickup_ready_email","crm_default_newsletter_block_to_campaigns","member_areas_spanish_interviews","crm_enable_recaptcha_v3_enterprise","campaigns_new_image_layout_picker"],"videoAssetsFeatureFlags":["mux-data-video-collection","mux-data-course-collection"],"impersonatedSession":false,"tzData":{"zones":[[0,"EU","GMT/BST",null]],"rules":{"EU":[[1981,"max",null,"Mar","lastSun","1:00u","1:00","S"],[1996,"max",null,"Oct","lastSun","1:00u","0",null]]}},"showAnnouncementBar":false,"recaptchaEnterpriseContext":{"recaptchaEnterpriseSiteKey":"6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv"},"i18nContext":{"timeZoneData":{"id":"Europe/London","name":"Greenwich Mean Time"}}};</script><script type="module">SquarespaceFonts.loadViaContext(); Squarespace.load(window);</script>
+<script data-sqs-type="imageloader-bootstrapper" type="module">if(window.ImageLoader) window.ImageLoader.bootstrap({}, document);</script>
+<script type="module">Squarespace.afterBodyLoad(Y);</script>
+<script type="application/ld+json">{"url":"http://www.justynajones.com","name":"JUSTYNA JONES","description":"","@context":"http://schema.org","@type":"WebSite"}</script><link rel="stylesheet" type="text/css" href="static/sitecss/5b97ec3a4cde7abfd97e62c3/49/55dccafee4b04b8e0d7b6d4d/5b97ec3a4cde7abfd97e62d9/962/site.css"><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
+<!-- End of Squarespace Headers -->
+    <script>(function(){var touchTest="ontouchstart"in window||navigator.msMaxTouchPoints;if(!touchTest){with(document.documentElement){className=className.replace(new RegExp("touch-styles"),"")}}})()</script>
+  </head>
+  <!-- Mobile Styles Enabled -->
+  <body id="collection-5cd18ab9eef1a1c8a9889a93" class="site-spacing-small site-outer-padding-medium site-alignment-center tweak-site-ajax-loading-enable ancillary-header-full-width tweak-header-cart-style-text  ancillary-header-branding-position-left ancillary-header-tagline-position-left ancillary-header-primary-nav-position-right ancillary-header-secondary-nav-position-right ancillary-header-cart-position-right ancillary-header-left-layout-horizontal ancillary-header-center-layout-stacked ancillary-header-right-layout-horizontal ancillary-header-account-position-left tweak-header-account-style-text  tweak-mobile-bar-account-style-text show-desktop-folder-indicator scale-heading-1-font-size scale-heading-2-font-size scale-heading-3-font-size scale-quote-font-size quote-alignment-center show-quotation-marks   show-events-banner           show-events-title               show-collection-page-footer banner-height-small banner-image-alignment-center    banner-text-alignment-center page-banner-text-width-small  scale-banner-description-font-size  banner-text-background-indent-custom scale-page-title-font-size scale-page-description-font-size intro-text-width-large intro-text-height-medium scale-index-title-font-size scale-index-description-font-size index-intro-text-width-medium index-intro-text-height-extra-large index-item-width-half index-item-height-medium index-item-spacing-custom    index-item-image-alignment-center index-item-image-crop  index-item-title-display-on-hover index-item-title-alignment-center scale-index-item-title-font-size  show-index-item-categories  project-image-alignment-center project-image-spacing-medium project-banner-spacing-small show-project-captions project-image-portrait-caption-style-alternate  project-image-landscape-caption-style-offset project-left-image-portrait-caption-style-standard project-left-image-landscape-caption-style-standard project-right-image-portrait-caption-style-standard project-right-image-landscape-caption-style-standard    tweak-project-slide-transition image-caption-title-alignment-center scale-image-caption-title-font image-caption-body-alignment-center scale-image-caption-body-font show-index-navigation index-link-spacing-large scale-index-link-font-size index-link-style-list-inline index-link-delimiter-type-none show-next-label-only tweak-page-transition-animation tweak-mobile-bar-position-top-fixed tweak-transparent-fixed-mobile-bar tweak-mobile-bar-branding-position-left tweak-mobile-bar-menu-icon-position-right tweak-mobile-bar-site-tagline-position-below-branding  tweak-mobile-bar-cart-style-text tweak-icon-weight-light  tweak-blog-meta-primary-date tweak-blog-meta-secondary-category tweak-blog-list-style-grid tweak-blog-list-separator-show tweak-blog-list-alignment-left tweak-blog-list-item-image-show tweak-blog-list-item-image-aspect-ratio-grid-32-standard tweak-blog-list-item-image-aspect-ratio-stacked-11-square tweak-blog-list-item-title-show tweak-blog-list-item-excerpt-show tweak-blog-list-item-body-show tweak-blog-list-item-readmore-below-excerpt tweak-blog-list-item-meta-position-above-title tweak-blog-list-pagination-link-label-show tweak-blog-list-pagination-link-icon-show tweak-blog-list-pagination-link-icon-weight-light tweak-blog-item-alignment-center tweak-blog-item-meta-position-above-title tweak-blog-item-share-position-above-content  tweak-blog-item-pagination-link-label-show tweak-blog-item-pagination-link-title-show tweak-blog-item-pagination-link-meta-hide tweak-blog-item-pagination-link-icon-weight-hairline   event-thumbnails event-thumbnail-size-32-standard event-date-label event-date-label-time event-list-show-cats event-list-date event-list-time event-list-address   event-icalgcal-links  event-excerpts  event-item-back-link    gallery-design-grid aspect-ratio-auto lightbox-style-light gallery-navigation-bullets gallery-info-overlay-show-on-hover gallery-aspect-ratio-32-standard gallery-arrow-style-no-background gallery-transitions-fade gallery-show-arrows gallery-auto-crop   tweak-product-list-image-aspect-ratio-23-standard-vertical tweak-product-list-item-hover-behavior-show-alternate-image tweak-product-list-meta-position-overlay tweak-product-list-mobile-meta-position-under tweak-product-list-meta-alignment-under-center tweak-product-list-meta-alignment-overlay-center-center tweak-product-list-show-title tweak-product-list-show-price tweak-product-list-filter-display-left-side tweak-product-list-filter-alignment-left tweak-product-item-nav-show-none tweak-product-item-nav-pagination-style-previousnext tweak-product-item-nav-breadcrumb-alignment-left tweak-product-item-nav-pagination-alignment-split tweak-product-item-gallery-position-left tweak-product-item-gallery-design-slideshow tweak-product-item-gallery-aspect-ratio-23-standard-vertical tweak-product-item-gallery-thumbnail-alignment-center tweak-product-item-details-alignment-left tweak-product-item-details-show-title tweak-product-item-details-show-price tweak-product-item-details-show-excerpt tweak-product-item-details-excerpt-position-below-price tweak-product-item-details-show-share-buttons tweak-product-item-details-show-variants tweak-product-item-details-show-quantity tweak-product-item-details-options-style-square tweak-product-item-details-show-add-to-cart-button tweak-product-item-details-add-to-cart-button-style-outline tweak-product-item-details-add-to-cart-button-shape-square tweak-product-item-details-add-to-cart-button-padding-medium tweak-product-item-image-zoom-enabled tweak-product-item-image-zoom-behavior-click tweak-product-item-lightbox-enabled tweak-related-products-image-aspect-ratio-11-square tweak-related-products-meta-alignment-under-center tweak-product-badge-style-square tweak-product-badge-position-top-right tweak-product-badge-inset-floating newsletter-style-dark hide-opentable-icons opentable-style-dark small-button-style-outline small-button-shape-square medium-button-style-outline medium-button-shape-square large-button-style-outline large-button-shape-square image-block-poster-text-alignment-center image-block-card-dynamic-font-sizing image-block-card-content-position-center image-block-card-text-alignment-left image-block-overlap-dynamic-font-sizing image-block-overlap-content-position-center image-block-overlap-text-alignment-left image-block-collage-dynamic-font-sizing image-block-collage-content-position-top image-block-collage-text-alignment-left image-block-stack-dynamic-font-sizing image-block-stack-text-alignment-left button-style-outline button-corner-style-square tweak-product-quick-view-button-style-floating tweak-product-quick-view-button-position-bottom tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light tweak-share-buttons-style-icon-only tweak-share-buttons-icons-show tweak-share-buttons-labels-show tweak-share-buttons-counts-show  tweak-share-buttons-standard-background-color native-currency-code-usd collection-type-project collection-layout-default collection-5cd18ab9eef1a1c8a9889a93 view-list mobile-style-available has-site-title has-primary-nav has-secondary-nav" data-controller="BodyClassController">
+
+  <div class="overflow-wrapper">
+
+    
+    
+
+<input type="checkbox" name="mobile-nav-toggle" id="mobileNavToggle" class="mobile-nav-toggle-box hidden" data-controller="MobileNavController">
+
+<div class="mobile-bar-wrapper">
+  <div class="mobile-bar-flex-child"></div>
+  <div class="mobile-branding-wrapper">
+    
+      
+        <div class="mobile-site-title"><a href="index.htm">JUSTYNA JONES</a></div>
+      
+      
+    
+  </div>
+  <label for="mobileNavToggle" class="mobile-nav-toggle-label" onclick="">
+    <svg class="Icon Icon--hamburger" viewbox="0 0 24 18">
+      <use xlink:href="/assets/ui-icons.svg#hamburger-icon--even" class="use--even"></use>
+      <use xlink:href="/assets/ui-icons.svg#hamburger-icon--odd" class="use--odd"></use>
+    </svg>
+    <svg class="Icon Icon--close" viewbox="0 0 20 20">
+      <use xlink:href="/assets/ui-icons.svg#close-icon"></use>
+    </svg>
+  </label>
+</div>
+
+<div class="overlay-nav-container" id="overlayNav">
+  <div class="overlay-nav-wrapper">
+    <div class="mobile-primary-nav-wrapper">
+  <nav class="mobile-primary-nav-links">
+    
+      
+
+        
+          
+            <div class="index">
+              <a href="index.htm" class="nav-item-index">
+                Work
+              </a>
+            </div>
+          
+        
+      
+
+    
+  </nav>
+</div>
+
+
+
+    <div class="mobile-secondary-nav-wrapper">
+  <nav class="mobile-secondary-nav-links">
+    
+      
+
+        
+
+        
+
+          
+          <div class="collection folder-link">
+            <a href="about-me.html" class="nav-item-page">
+              About me
+            </a>
+          </div>
+          
+
+        
+      
+      
+
+    
+      
+
+        
+
+        
+
+          
+          <div class="collection folder-link">
+            <a href="contact.html" class="nav-item-page">
+              Contact
+            </a>
+          </div>
+          
+
+        
+      
+      
+
+    
+  </nav>
+</div>
+
+
+
+    
+
+    
+  </div>
+</div>
+
+
+
+    <div id="site" class="site-container">
+
+      
+      
+<header id="header" class="site-header" role="banner" data-nc-base="header" data-nc-group="header" data-controller="AncillaryLayout">
+  <div data-nc-container="left">
+    <div class="logo-wrapper" data-content-field="site-title" data-nc-element="branding">
+    
+      
+        <div class="site-title"><a href="index.htm">JUSTYNA JONES</a></div>
+      
+    
+    </div>
+
+    <div class="site-tagline-wrapper" data-nc-element="tagline">
+      
+    </div>
+
+    <div id="mainNavWrapper" class="nav-wrapper primary-nav-wrapper" data-nc-element="primary-nav">
+      
+<nav class="site-navigation" role="navigation" data-content-field="navigation">
+  
+
+    
+      
+      <div class="nav-item index homepage" id="id-5ba8f3867817f764cddeb37a">
+        <a href="index.htm" class="nav-item-index">
+          <span>Work</span>
+        </a>
+      </div>
+      
+    
+
+    
+</nav>
+
+
+
+    </div>
+
+    <div id="secondaryNavWrapper" class="nav-wrapper secondary-nav-wrapper" data-nc-element="secondary-nav">
+      
+<nav class="site-navigation" role="navigation" data-content-field="navigation">
+  
+
+    
+      
+
+      
+
+        
+        <div class="nav-item collection" id="id-5ba8e0fe652deafcd6070ca7">
+          <a href="about-me.html" class="nav-item-page">
+            <span>About me</span>
+          </a>
+        </div>
+        
+
+      
+    
+    
+
+  
+
+    
+      
+
+      
+
+        
+        <div class="nav-item collection" id="id-5ba8f354b208fc93f04fa953">
+          <a href="contact.html" class="nav-item-page">
+            <span>Contact</span>
+          </a>
+        </div>
+        
+
+      
+    
+    
+
+    
+</nav>
+
+
+
+    </div>
+
+    <div class="cart-wrapper" data-nc-element="cart">
+      
+
+    </div>
+    
+  </div>
+  <div data-nc-container="center"></div>
+  <div data-nc-container="right"></div>
+</header>
+
+
+      <div id="content" class="content-container">
+
+        
+        
+          
+
+
+
+  <div data-controller="BannerController" class="page-banner-wrapper page-banner-has-image" data-suggested-bg-color-thumbnail="#f4fdff">
+
+    <div class="page-banner-image-container collection-thumbnail-image-container hide-collection-image" data-edit-main-image="Background">
+
+      
+        
+          <img class="page-banner-image js-page-banner-image loading" data-src="https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1557259389828-DFZ8G9R9F8K960TFAL8X/rio-bahtiar-1203924-unsplash.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1557259389828-DFZ8G9R9F8K960TFAL8X/rio-bahtiar-1203924-unsplash.jpg" data-image-dimensions="2500x1407" data-image-focal-point="0.49,0.49" alt="rio-bahtiar-1203924-unsplash.jpg" data-load="false">
+        
+      
+
+    </div>
+
+    <div class="page-text-wrapper hide clearfix" data-collection-id="5cd18ab9eef1a1c8a9889a93" data-edit-main-image="Background">
+      <h1 class="page-title"><span data-content-field="title">Money transfer with Samsung (Service Design)</span></h1>
+
+			
+
+      <div class="page-description" data-content-field="description"></div>
+    </div>
+  </div>
+
+
+        
+
+        <main id="page" class="site-page" role="main" data-controller="ProjectController">
+
+          
+          
+          <div class="sqs-layout sqs-grid-12 columns-12 collection-header empty" data-layout-label="Collection" data-type="block-field" id="collection-header-5cd18ab9eef1a1c8a9889a93"><div class="row sqs-row"><div class="col sqs-col-12 span-12"></div></div></div>
+          
+
+          <div class="main-content" data-content-field="main-content">
+            
+            <div class="project-container">
+  <div class="project-slides">
+
+    
+
+  </div>
+</div>
+          </div>
+
+          
+          
+          <div class="sqs-layout sqs-grid-12 columns-12 collection-footer" data-layout-label="Collection" data-type="block-field" data-updated-on="1622498399130" id="collection-footer-5cd18ab9eef1a1c8a9889a93"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-yui_3_17_2_1_1622497459812_16568"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        " data-test="image-block-inline-outer-wrapper">
+
+      
+
+      
+        <figure class="
+              sqs-block-image-figure
+              intrinsic
+            " style="max-width:100%;">
+          
+        
+        
+
+        
+          
+            
+          <div class="image-block-wrapper" data-animation-role="image">
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:56.279998779296875%;
+                
+                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
+              ">
+                
+                  <noscript><img src="content/v1/5b97ec3a4cde7abfd97e62c3/1622497483143-NESA428CRJNX4X8Z8BJW/girl.jpeg" alt="girl.jpeg"></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1622497483143-NESA428CRJNX4X8Z8BJW/girl.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1622497483143-NESA428CRJNX4X8Z8BJW/girl.jpeg" data-image-dimensions="2500x1407" data-image-focal-point="0.5,0.5" alt="girl.jpeg" data-load="false" data-image-id="60b558c96a770000aeabee64" data-type="image">
+                
+            </div>
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1622496781737_16603"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <h1 style="text-align:center;white-space:pre-wrap;">International Money Transfer with Samsung (Service design)</h1>
+</div>
+
+
+
+</div></div><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_1_1622496781737_18916"><div class="sqs-block-content">&nbsp;</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-04b617e28fc2dbf7b94d"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <h2 style="text-align:center;white-space:pre-wrap;">OVERVIEW</h2><p style="text-align:center;white-space:pre-wrap;" class="">As part of a large scale project where Travelex partnered with Samsung to deliver International Money transfer service within the Samsung Pay app, I have worked on Service Design piece and provided UX expertise on international money transfer to Samsung.</p>
+</div>
+
+
+
+</div></div><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_1_1557262107938_36449"><div class="sqs-block-content">&nbsp;</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1557262107938_36512"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <ol data-rte-list="default"><li><h2 style="text-align:center;white-space:pre-wrap;">Review and alignment</h2></li></ol><p style="text-align:center;white-space:pre-wrap;" class="">When the project was kicked off, the design team was not involved. This was due to a mistaken belief that Samsung will provide their own design and UI while Travelex their money transfer back end platform. However, it quickly became obvious that the customer voice and money transfer design experience were missing. In order to try and rectify this, we asked Samsung to provide us with all the design work they had done. I gathered Product team and by cutting all the screens we created a user journey from acquisition in Samsung Pay until when a money transfer reaches a Recipient. We then started mapping the actions of the user on each screen, the touch points that they may be crossing such as Google Play store, email or social media, as well as the different systems that were being used to power the product. Lastly, we looked at all possible teams that may be involved in various processes at different points in the user journey.</p><p style="text-align:center;white-space:pre-wrap;" class="">By running through this process we have created what we called an Alignment Wall. This enabled us to highlight all the areas where there were questions, or further work needed to be done in order to streamline the journey for the customer, as well as for the business that was supporting this customer (in this case for Travelex). The different teams taking part in this process (e.g. engineering, legal &amp; compliance or customer support found this exercises really helpful).</p><p style="text-align:center;white-space:pre-wrap;" class="">It also turned out to be the forerunner to the Service blueprint I created later on.</p><p style="text-align:center;white-space:pre-wrap;" class="" data-rte-preserve-empty="true"></p><h3 style="text-align:center;white-space:pre-wrap;">“ALIGNMENT WALL”</h3>
+</div>
+
+
+
+</div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-yui_3_17_2_1_1557262107938_13988"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div class="
+          image-block-outer-wrapper
+          layout-caption-hidden
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        " data-test="image-block-inline-outer-wrapper">
+
+      
+
+      
+        <figure class="
+              sqs-block-image-figure
+              intrinsic
+            " style="max-width:2016px;">
+          
+        
+        
+
+        
+          
+            <button class="
+                  sqs-block-image-button
+                  lightbox
+                  
+          
+        
+                " data-description="" data-lightbox-theme="dark">
+              <span class="v6-visually-hidden">View fullsize</span>
+              
+          <div class="image-block-wrapper" data-animation-role="image">
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:75%;
+                
+                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
+              ">
+                
+                  <noscript><img src="content/v1/5b97ec3a4cde7abfd97e62c3/1557262525605-FN79L6PS5J9W0X7HL6K0/Alignment%20wall.PNG" alt="Alignment wall.PNG"></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1557262525605-FN79L6PS5J9W0X7HL6K0/Alignment+wall.PNG" data-image="https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1557262525605-FN79L6PS5J9W0X7HL6K0/Alignment+wall.PNG" data-image-dimensions="2016x1512" data-image-focal-point="0.5,0.5" alt="Alignment wall.PNG" data-load="false" data-image-id="5cd1f0ba24a694f0b85ccc75" data-type="image">
+                
+            </div>
+          </div>
+        
+            </button>
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_1_1621800973415_41211"><div class="sqs-block-content">&nbsp;</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1621800973415_71829"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <p style="text-align:center;white-space:pre-wrap;" class="">Another piece of work we did at this point was to review the application screens provided to us by Samsung. We examined them from UX and money transfer point of view. </p><p style="text-align:center;white-space:pre-wrap;" class="">The key challenges we had were that the screens were built using the existing Samsung pattern library and we felt that some interactions would benefit from new patterns that didn’t exist. They were also very long and often one screen would contain a large number of user steps which we saw as detrimental to the customer experience. While we understood that Samsung had a certain design rules they were following to keep things consistent across other applications within their platform we wanted to encourage them to change things and make improvements.</p><p style="text-align:center;white-space:pre-wrap;" class="">The photo below shows how I annotated the screens with post it notes to indicate where I felt design changes had to be made or where things were not clear.</p><h3 style="text-align:center;white-space:pre-wrap;">Review of wireframes</h3>
+</div>
+
+
+
+</div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-yui_3_17_2_1_1557262107938_15216"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div class="
+          image-block-outer-wrapper
+          layout-caption-hidden
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        " data-test="image-block-inline-outer-wrapper">
+
+      
+
+      
+        <figure class="
+              sqs-block-image-figure
+              intrinsic
+            " style="max-width:2015px;">
+          
+        
+        
+
+        
+          
+            <button class="
+                  sqs-block-image-button
+                  lightbox
+                  
+          
+        
+                " data-description="" data-lightbox-theme="dark">
+              <span class="v6-visually-hidden">View fullsize</span>
+              
+          <div class="image-block-wrapper" data-animation-role="image">
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:66.6501235961914%;
+                
+                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
+              ">
+                
+                  <noscript><img src="content/v1/5b97ec3a4cde7abfd97e62c3/1557262590463-WIURA2DFKU7HBFOS6GOC/Samsung%2Bwireframes%2Bannotations.jpg" alt="Samsung+wireframes+annotations.jpg"></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1557262590463-WIURA2DFKU7HBFOS6GOC/Samsung%2Bwireframes%2Bannotations.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1557262590463-WIURA2DFKU7HBFOS6GOC/Samsung%2Bwireframes%2Bannotations.jpg" data-image-dimensions="2015x1343" data-image-focal-point="0.5,0.5" alt="Samsung+wireframes+annotations.jpg" data-load="false" data-image-id="5cd1f0fc53450a0b6cf138f7" data-type="image">
+                
+            </div>
+          </div>
+        
+            </button>
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1557262107938_39738"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <h3 style="text-align:center;white-space:pre-wrap;">FIRST STAB AT SERVICE DESIGN BLUEPRINT FOR IN-APP ACTIVITIES</h3><p style="text-align:center;white-space:pre-wrap;" class="">The below image shows a very first draft of the Service blueprint accompanied by an example of a user scenario.</p>
+</div>
+
+
+
+</div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-yui_3_17_2_1_1557262107938_17628"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div class="
+          image-block-outer-wrapper
+          layout-caption-hidden
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        " data-test="image-block-inline-outer-wrapper">
+
+      
+
+      
+        <figure class="
+              sqs-block-image-figure
+              intrinsic
+            " style="max-width:1512px;">
+          
+        
+        
+
+        
+          
+            <button class="
+                  sqs-block-image-button
+                  lightbox
+                  
+          
+        
+                " data-description="" data-lightbox-theme="dark">
+              <span class="v6-visually-hidden">View fullsize</span>
+              
+          <div class="image-block-wrapper" data-animation-role="image">
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:100%;
+                
+                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
+              ">
+                
+                  <noscript><img src="content/v1/5b97ec3a4cde7abfd97e62c3/1557262679087-L9K9WHVQ0YGPGMWPITLU/Service%2Bblueprint%2B%25281%253A2%2529.jpg" alt="Service+blueprint+%281%3A2%29.jpg"></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1557262679087-L9K9WHVQ0YGPGMWPITLU/Service%2Bblueprint%2B%25281%253A2%2529.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1557262679087-L9K9WHVQ0YGPGMWPITLU/Service%2Bblueprint%2B%25281%253A2%2529.jpg" data-image-dimensions="1512x1512" data-image-focal-point="0.5,0.5" alt="Service+blueprint+%281%3A2%29.jpg" data-load="false" data-image-id="5cd1f1559140b7db2d314abe" data-type="image">
+                
+            </div>
+          </div>
+        
+            </button>
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_1_1557259622768_3744"><div class="sqs-block-content">&nbsp;</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1557259622768_4216"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <h2 style="text-align:center;white-space:pre-wrap;">2. Customer experience workshops</h2><p style="text-align:center;white-space:pre-wrap;" class="">The key team that we knew was detrimental to the success of this project once the money transfer in Samsung Pay was up and running was the Travelex Customer Support team. It was them that the future customers would be getting in touch in case they needed help or if something went wrong. I felt that it was best to bring the customer to life by showing examples of real life situations that someone who is sending money may be encountering. We looked at a few different scenarios and together tried to capture their thoughts, feelings, words and actions by building empathy maps. By doing so we arrived at a list of questions or problems that the customer support team might be asked to help with.</p><h3 style="text-align:center;white-space:pre-wrap;">EMPATHY MAPPING</h3>
+</div>
+
+
+
+</div></div><div class="row sqs-row"><div class="col sqs-col-6 span-6"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-yui_3_17_2_1_1557262107938_76933"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div class="
+          image-block-outer-wrapper
+          layout-caption-hidden
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        " data-test="image-block-inline-outer-wrapper">
+
+      
+
+      
+        <figure class="
+              sqs-block-image-figure
+              intrinsic
+            " style="max-width:1684px;">
+          
+        
+        
+
+        
+          
+            <button class="
+                  sqs-block-image-button
+                  lightbox
+                  
+          
+        
+                " data-description="" data-lightbox-theme="dark">
+              <span class="v6-visually-hidden">View fullsize</span>
+              
+          <div class="image-block-wrapper" data-animation-role="image">
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:70.66508483886719%;
+                
+                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
+              ">
+                
+                  <noscript><img src="content/v1/5b97ec3a4cde7abfd97e62c3/1557263372467-YVFSTWOI2IL4CH8012Z1/Juan.png" alt="Juan.png"></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1557263372467-YVFSTWOI2IL4CH8012Z1/Juan.png" data-image="https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1557263372467-YVFSTWOI2IL4CH8012Z1/Juan.png" data-image-dimensions="1684x1190" data-image-focal-point="0.5,0.5" alt="Juan.png" data-load="false" data-image-id="5cd1f40b71c10b22529dfe22" data-type="image">
+                
+            </div>
+          </div>
+        
+            </button>
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div></div><div class="col sqs-col-6 span-6"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-yui_3_17_2_1_1557262107938_78159"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        " data-test="image-block-inline-outer-wrapper">
+
+      
+
+      
+        <figure class="
+              sqs-block-image-figure
+              intrinsic
+            " style="max-width:842px;">
+          
+        
+        
+
+        
+          
+            
+          <div class="image-block-wrapper" data-animation-role="image">
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:70.66508483886719%;
+                
+                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
+              ">
+                
+                  <noscript><img src="content/v1/5b97ec3a4cde7abfd97e62c3/1557263353740-RYCO431URRKBSZ9E12EN/Amar%401x.png" alt="Amar@1x.png"></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1557263353740-RYCO431URRKBSZ9E12EN/Amar%401x.png" data-image="https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1557263353740-RYCO431URRKBSZ9E12EN/Amar%401x.png" data-image-dimensions="842x595" data-image-focal-point="0.5,0.5" alt="Amar@1x.png" data-load="false" data-image-id="5cd1f3f9f4e1fc817c1e67ba" data-type="image">
+                
+            </div>
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div></div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-yui_3_17_2_1_1557262107938_82571"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div class="
+          image-block-outer-wrapper
+          layout-caption-hidden
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        " data-test="image-block-inline-outer-wrapper">
+
+      
+
+      
+        <figure class="
+              sqs-block-image-figure
+              intrinsic
+            " style="max-width:2016px;">
+          
+        
+        
+
+        
+          
+            <button class="
+                  sqs-block-image-button
+                  lightbox
+                  
+          
+        
+                " data-description="" data-lightbox-theme="dark">
+              <span class="v6-visually-hidden">View fullsize</span>
+              
+          <div class="image-block-wrapper" data-animation-role="image">
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:75%;
+                
+                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
+              ">
+                
+                  <noscript><img src="content/v1/5b97ec3a4cde7abfd97e62c3/1557263446415-6TMX1DDMU0ER7NAA3Q1V/Empathy%20map%201.PNG" alt="Empathy map 1.PNG"></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1557263446415-6TMX1DDMU0ER7NAA3Q1V/Empathy+map+1.PNG" data-image="https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1557263446415-6TMX1DDMU0ER7NAA3Q1V/Empathy+map+1.PNG" data-image-dimensions="2016x1512" data-image-focal-point="0.5,0.5" alt="Empathy map 1.PNG" data-load="false" data-image-id="5cd1f454104c7bf1399eb18f" data-type="image">
+                
+            </div>
+          </div>
+        
+            </button>
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_1_1621800973415_174569"><div class="sqs-block-content">&nbsp;</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1557262107938_179256"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <h3 style="text-align:center;white-space:pre-wrap;">BUILDING THE BLUEPRINT TOGETHER</h3>
+</div>
+
+
+
+</div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-yui_3_17_2_1_1557262107938_75585"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div class="
+          image-block-outer-wrapper
+          layout-caption-hidden
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        " data-test="image-block-inline-outer-wrapper">
+
+      
+
+      
+        <figure class="
+              sqs-block-image-figure
+              intrinsic
+            " style="max-width:2016px;">
+          
+        
+        
+
+        
+          
+            <button class="
+                  sqs-block-image-button
+                  lightbox
+                  
+          
+        
+                " data-description="" data-lightbox-theme="dark">
+              <span class="v6-visually-hidden">View fullsize</span>
+              
+          <div class="image-block-wrapper" data-animation-role="image">
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:75%;
+                
+                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
+              ">
+                
+                  <noscript><img src="content/v1/5b97ec3a4cde7abfd97e62c3/1557263254112-AGDJDDFY6RBPJUMAQMAM/SERVICE%20BLUEPRINT_%20delayed%20payment.PNG" alt="SERVICE BLUEPRINT_ delayed payment.PNG"></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1557263254112-AGDJDDFY6RBPJUMAQMAM/SERVICE+BLUEPRINT_+delayed+payment.PNG" data-image="https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1557263254112-AGDJDDFY6RBPJUMAQMAM/SERVICE+BLUEPRINT_+delayed+payment.PNG" data-image-dimensions="2016x1512" data-image-focal-point="0.5,0.5" alt="SERVICE BLUEPRINT_ delayed payment.PNG" data-load="false" data-image-id="5cd1f393e4966b22afa325f1" data-type="image">
+                
+            </div>
+          </div>
+        
+            </button>
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_1_1557262107938_136426"><div class="sqs-block-content">&nbsp;</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1557262107938_137095"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <h2 style="text-align:center;white-space:pre-wrap;">3. Service blueprints</h2><p style="text-align:center;white-space:pre-wrap;" class="">The images below show the final digitised version of the Service blue prints. These were not supposed to be static elements but to evolve with the product and any changes that occurred as part of the product itself, the processes or the teams involved.</p>
+</div>
+
+
+
+</div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-yui_3_17_2_1_1557259622768_4929"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div class="
+          image-block-outer-wrapper
+          layout-caption-hidden
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        " data-test="image-block-inline-outer-wrapper">
+
+      
+
+      
+        <figure class="
+              sqs-block-image-figure
+              intrinsic
+            " style="max-width:2500px;">
+          
+        
+        
+
+        
+          
+            <button class="
+                  sqs-block-image-button
+                  lightbox
+                  
+          
+        
+                " data-description="" data-lightbox-theme="dark">
+              <span class="v6-visually-hidden">View fullsize</span>
+              
+          <div class="image-block-wrapper" data-animation-role="image">
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:83.68000030517578%;
+                
+                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
+              ">
+                
+                  <noscript><img src="content/v1/5b97ec3a4cde7abfd97e62c3/1557260622638-HLOUXHH3PW4TAEK4WFIW/Service%20design%20blueprint%20in-app.png" alt="Service design blueprint in-app.png"></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1557260622638-HLOUXHH3PW4TAEK4WFIW/Service+design+blueprint+in-app.png" data-image="https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1557260622638-HLOUXHH3PW4TAEK4WFIW/Service+design+blueprint+in-app.png" data-image-dimensions="2500x2092" data-image-focal-point="0.5,0.5" alt="Service design blueprint in-app.png" data-load="false" data-image-id="5cd1e94b0d9297c9b5bab21d" data-type="image">
+                
+            </div>
+          </div>
+        
+            </button>
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-yui_3_17_2_1_1557259622768_26718"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div class="
+          image-block-outer-wrapper
+          layout-caption-hidden
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        " data-test="image-block-inline-outer-wrapper">
+
+      
+
+      
+        <figure class="
+              sqs-block-image-figure
+              intrinsic
+            " style="max-width:2500px;">
+          
+        
+        
+
+        
+          
+            <button class="
+                  sqs-block-image-button
+                  lightbox
+                  
+          
+        
+                " data-description="" data-lightbox-theme="dark">
+              <span class="v6-visually-hidden">View fullsize</span>
+              
+          <div class="image-block-wrapper" data-animation-role="image">
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:104.35999298095703%;
+                
+                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
+              ">
+                
+                  <noscript><img src="content/v1/5b97ec3a4cde7abfd97e62c3/1557260660224-SYS8HTZFB55SMG1OTR7B/Service%20design%20blueprint%20customer%20support.png" alt="Service design blueprint customer support.png"></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1557260660224-SYS8HTZFB55SMG1OTR7B/Service+design+blueprint+customer+support.png" data-image="https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1557260660224-SYS8HTZFB55SMG1OTR7B/Service+design+blueprint+customer+support.png" data-image-dimensions="2500x2609" data-image-focal-point="0.5,0.5" alt="Service design blueprint customer support.png" data-load="false" data-image-id="5cd1e9706e9a7f534f69bfe2" data-type="image">
+                
+            </div>
+          </div>
+        
+            </button>
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1557259622768_6168"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <h2 style="text-align:center;white-space:pre-wrap;">4. Eco-system map</h2><p style="text-align:center;white-space:pre-wrap;" class="">As part of the service design piece I also designed an eco-system map illustrating all the different processes, tools, systems and products involved. There was a great feedback from internal stakeholders and they found this really useful to understand how the different parts work together. For me however, the number one thing behind this exercise was understand if there are gaps or glitches in internal processes or complex integrations that could potentially lead to issues in customer experience, and by doing so, to prevent those.</p>
+</div>
+
+
+
+</div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-yui_3_17_2_1_1557259622768_6773"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div class="
+          image-block-outer-wrapper
+          layout-caption-hidden
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        " data-test="image-block-inline-outer-wrapper">
+
+      
+
+      
+        <figure class="
+              sqs-block-image-figure
+              intrinsic
+            " style="max-width:2500px;">
+          
+        
+        
+
+        
+          
+            <button class="
+                  sqs-block-image-button
+                  lightbox
+                  
+          
+        
+                " data-description="" data-lightbox-theme="dark">
+              <span class="v6-visually-hidden">View fullsize</span>
+              
+          <div class="image-block-wrapper" data-animation-role="image">
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:97.36000061035156%;
+                
+                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
+              ">
+                
+                  <noscript><img src="content/v1/5b97ec3a4cde7abfd97e62c3/1557260732609-VJ75PT4UWV7EE6BDCUK2/Ecosystem%20map%20v.0.5%403x.png" alt="Ecosystem map v.0.5@3x.png"></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1557260732609-VJ75PT4UWV7EE6BDCUK2/Ecosystem+map+v.0.5%403x.png" data-image="https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1557260732609-VJ75PT4UWV7EE6BDCUK2/Ecosystem+map+v.0.5%403x.png" data-image-dimensions="2500x2434" data-image-focal-point="0.5,0.5" alt="Ecosystem map v.0.5@3x.png" data-load="false" data-image-id="5cd1e9b379978800015ab4d7" data-type="image">
+                
+            </div>
+          </div>
+        
+            </button>
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div></div></div></div>
+          
+
+          
+	<!-- item belongs to an index -->
+	
+	<div id="indexNav" class="hide index-item-navigation" data-content-field="navigation-indexNav">
+	  <nav class="index-navigation" role="navigation">
+	    <a class="index-nav-link index-all-link" href="index.htm">All</a>
+	    
+	      <a class="index-nav-link project-collection active-link index-page-transition-link" href="international-payments-service-design.html">Money transfer with Samsung (Service Design)</a>
+	      
+	    
+	      <a class="index-nav-link project-collection index-page-transition-link" href="money-transfer-user-testing.html">Money Transfer with Samsung (User testing)</a>
+	      
+	    
+	      <a class="index-nav-link project-collection index-page-transition-link" href="developer-centre.html">Developer Centre (UX & UI)</a>
+	      
+	    
+	      <a class="index-nav-link project-collection index-page-transition-link" href="b2b-platform-ux-ui.html">B2B Platform (UX & UI)</a>
+	      
+	    
+	      <a class="index-nav-link project-collection index-page-transition-link" href="wire-b2c-ux-ui.html">Wire B2C (UX & UI)</a>
+	      
+	    
+	      <a class="index-nav-link project-collection index-page-transition-link" href="travelex-money-card-ux-ui.html">Travelex Money Card (UX &UI)</a>
+	      
+	    
+	      <a class="index-nav-link project-collection index-page-transition-link" href="mabey-bridge-ux.html">Mabey Bridge (UX)</a>
+	      
+	    
+	      <a class="index-nav-link project-collection index-page-transition-link" href="premier-holidays-strategy-ux.html">Premier Holidays Strategy (UX)</a>
+	      
+	    
+	      <a class="index-nav-link project-collection index-page-transition-link" href="eu-referendum-microsite-ux.html">EU referendum microsite (UX)</a>
+	      
+	    
+	  </nav>
+	</div>
+	<div id="indexNext" class="index-item-navigation">
+	  <nav class="index-next" class="hide" role="navigation" data-controller="IndexNavigationController">
+	    
+	      <a class="index-next-link project-collection active-link index-page-transition-link" href="international-payments-service-design.html"><span class="index-next-link-label" data-next-label="Next:" data-next-link="Next"></span><span class="index-next-link-title">Money transfer with Samsung (Service Design)</span></a>
+	      
+	    
+	      <a class="index-next-link project-collection index-page-transition-link" href="money-transfer-user-testing.html"><span class="index-next-link-label" data-next-label="Next:" data-next-link="Next"></span><span class="index-next-link-title">Money Transfer with Samsung (User testing)</span></a>
+	      
+	    
+	      <a class="index-next-link project-collection index-page-transition-link" href="developer-centre.html"><span class="index-next-link-label" data-next-label="Next:" data-next-link="Next"></span><span class="index-next-link-title">Developer Centre (UX & UI)</span></a>
+	      
+	    
+	      <a class="index-next-link project-collection index-page-transition-link" href="b2b-platform-ux-ui.html"><span class="index-next-link-label" data-next-label="Next:" data-next-link="Next"></span><span class="index-next-link-title">B2B Platform (UX & UI)</span></a>
+	      
+	    
+	      <a class="index-next-link project-collection index-page-transition-link" href="wire-b2c-ux-ui.html"><span class="index-next-link-label" data-next-label="Next:" data-next-link="Next"></span><span class="index-next-link-title">Wire B2C (UX & UI)</span></a>
+	      
+	    
+	      <a class="index-next-link project-collection index-page-transition-link" href="travelex-money-card-ux-ui.html"><span class="index-next-link-label" data-next-label="Next:" data-next-link="Next"></span><span class="index-next-link-title">Travelex Money Card (UX &UI)</span></a>
+	      
+	    
+	      <a class="index-next-link project-collection index-page-transition-link" href="mabey-bridge-ux.html"><span class="index-next-link-label" data-next-label="Next:" data-next-link="Next"></span><span class="index-next-link-title">Mabey Bridge (UX)</span></a>
+	      
+	    
+	      <a class="index-next-link project-collection index-page-transition-link" href="premier-holidays-strategy-ux.html"><span class="index-next-link-label" data-next-label="Next:" data-next-link="Next"></span><span class="index-next-link-title">Premier Holidays Strategy (UX)</span></a>
+	      
+	    
+	      <a class="index-next-link project-collection index-page-transition-link" href="eu-referendum-microsite-ux.html"><span class="index-next-link-label" data-next-label="Next:" data-next-link="Next"></span><span class="index-next-link-title">EU referendum microsite (UX)</span></a>
+	      
+	    
+	  </nav>
+	</div>
+	
+
+
+
+        </main>
+
+        <footer id="footer" class="site-footer" role="contentinfo">
+          <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Footer" data-type="block-field" data-updated-on="1537894558601" id="footer-blocks"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-d2739b8a5a988c85b89f"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <p style="white-space: pre-wrap;"><a href="static/5b97ec3a4cde7abfd97e62c3/t/60ed2bf72ae47d2ac91fc948/1626156035084/Justyna%20Jones%20CV.pdf" target="_blank">View my CV</a></p>
+</div>
+
+
+
+</div></div></div></div></div>
+        </footer>
+
+      </div>
+    </div>
+
+
+    <script defer="defer" src="static/ta/55dccaa0e4b0f748d9f6f215/962/scripts/site-bundle.js" type="text/javascript"></script>
+
+    
+
+
+  </div></body>
+</html>

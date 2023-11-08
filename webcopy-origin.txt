@@ -1,0 +1,828 @@
+Uri: http://assets.squarespace.com/@sqs/polyfiller/1.6/legacy.js
+File Name: C:\Downloaded Web Sites\www.justynajones.com\@sqs\polyfiller\1.6\legacy-1.js
+Content Type: text/javascript
+
+Uri: http://assets.squarespace.com/@sqs/polyfiller/1.6/modern.js
+File Name: C:\Downloaded Web Sites\www.justynajones.com\@sqs\polyfiller\1.6\modern-1.js
+Content Type: text/javascript
+
+Uri: http://assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-ebb5521f1537302c83345-min.en-US.js
+File Name: C:\Downloaded Web Sites\www.justynajones.com\universal\scripts-compressed\cldr-resource-pack-ebb5521f1537302c83345-min.en-US-1.js
+Content Type: text/javascript
+
+Uri: http://assets.squarespace.com/universal/scripts-compressed/common-82545d05df1744d70ab26-min.en-US.js
+File Name: C:\Downloaded Web Sites\www.justynajones.com\universal\scripts-compressed\common-82545d05df1744d70ab26-min.en-US-1.js
+Content Type: text/javascript
+
+Uri: http://assets.squarespace.com/universal/scripts-compressed/common-d35db4582a2cbc61aa008-min.en-US.js
+File Name: C:\Downloaded Web Sites\www.justynajones.com\universal\scripts-compressed\common-d35db4582a2cbc61aa008-min.en-US-1.js
+Content Type: text/javascript
+
+Uri: http://assets.squarespace.com/universal/scripts-compressed/common-vendors-ca998c7dbdb66b29ad427-min.en-US.js
+File Name: C:\Downloaded Web Sites\www.justynajones.com\universal\scripts-compressed\common-vendors-ca998c7dbdb66b29ad427-min.en-US-1.js
+Content Type: text/javascript
+
+Uri: http://assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-ad6fc5b14d9d8d4da42d6-min.en-US.js
+File Name: C:\Downloaded Web Sites\www.justynajones.com\universal\scripts-compressed\common-vendors-stable-ad6fc5b14d9d8d4da42d6-min.en-US-1.js
+Content Type: text/javascript
+
+Uri: http://assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-5082e2dab696b020ac83a-min.en-US.js
+File Name: C:\Downloaded Web Sites\www.justynajones.com\universal\scripts-compressed\extract-css-moment-js-vendor-5082e2dab696b020ac83a-min.en-US-1.js
+Content Type: text/javascript
+
+Uri: http://assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-3d6d918a40898bf4c726f-min.en-US.js
+File Name: C:\Downloaded Web Sites\www.justynajones.com\universal\scripts-compressed\extract-css-runtime-3d6d918a40898bf4c726f-min.en-US-1.js
+Content Type: text/javascript
+
+Uri: http://assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-8ac43c2d16b389ced7f02-min.en-US.js
+File Name: C:\Downloaded Web Sites\www.justynajones.com\universal\scripts-compressed\extract-css-runtime-8ac43c2d16b389ced7f02-min.en-US-1.js
+Content Type: text/javascript
+
+Uri: http://assets.squarespace.com/universal/scripts-compressed/performance-07180fc57f792069a06b1-min.en-US.js
+File Name: C:\Downloaded Web Sites\www.justynajones.com\universal\scripts-compressed\performance-07180fc57f792069a06b1-min.en-US-1.js
+Content Type: text/javascript
+
+Uri: http://use.typekit.net/ik/XbzfqeKfOchmbm7RFpn3Q__yEoN7psLj07tPdl6_EIMfeltgfFHN4UJLFRbh52jhWDmK5Qi8jDFyFeFqZQiyjcZq5Qi8FR4RwU7wMPG0-1mDiY80jATzdcmDO1FUiABkZWF3jAF8OcFzdPU7iWFXpAoy-cN0ZWw0jhNlOeTuSasodcB7dho8SkoDSWmyScmDSeBRZPoRdhXCdeNRjAUGdaFXOYiaiko7iWFXpAoy-cN0ZWw0jhNlOYiaiko7iWFXpAoy-cN0ZWw0SaBujW48Sagyjh90jhNlJymk-ASlShNC-AbldAmq-WmlOAZTde37f6KT7MJbMg6BJMHbMipt7lXB.js
+File Name: C:\Downloaded Web Sites\www.justynajones.com\ik\XbzfqeKfOchmbm7RFpn3Q__yEoN7psLj07tPdl6_EIMfeltgfFHN4UJLFRbh52jhWDmK5Qi8jDFyFeFqZQiyjcZq5Qi8FR4RwU7wMPG0-1mDiY80jATzdcmDO1FUiABkZWF3jAF8OcFzdPU7iWFXpAoy-cN0ZWw0jhNlOeTuSasodcB7dho8SkoDSWmyScmDSeBRZPoRdhXCd-1.js
+Content Type: text/javascript
+
+Uri: http://www.justynajones.com/
+File Name: C:\Downloaded Web Sites\www.justynajones.com\index-1.htm
+Content Type: text/html
+
+Uri: http://www.justynajones.com/about-me
+File Name: C:\Downloaded Web Sites\www.justynajones.com\about-me-1.html
+Content Type: text/html
+
+Uri: http://www.justynajones.com/b2b-platform-ux-ui
+File Name: C:\Downloaded Web Sites\www.justynajones.com\b2b-platform-ux-ui-1.html
+Content Type: text/html
+
+Uri: http://www.justynajones.com/contact
+File Name: C:\Downloaded Web Sites\www.justynajones.com\contact-1.html
+Content Type: text/html
+
+Uri: http://www.justynajones.com/developer-centre
+File Name: C:\Downloaded Web Sites\www.justynajones.com\developer-centre-1.html
+Content Type: text/html
+
+Uri: http://www.justynajones.com/eu-referendum-microsite-ux
+File Name: C:\Downloaded Web Sites\www.justynajones.com\eu-referendum-microsite-ux-1.html
+Content Type: text/html
+
+Uri: http://www.justynajones.com/international-payments-service-design
+File Name: C:\Downloaded Web Sites\www.justynajones.com\international-payments-service-design-1.html
+Content Type: text/html
+
+Uri: http://www.justynajones.com/mabey-bridge-ux
+File Name: C:\Downloaded Web Sites\www.justynajones.com\mabey-bridge-ux-1.html
+Content Type: text/html
+
+Uri: http://www.justynajones.com/money-transfer-user-testing
+File Name: C:\Downloaded Web Sites\www.justynajones.com\money-transfer-user-testing-1.html
+Content Type: text/html
+
+Uri: http://www.justynajones.com/premier-holidays-strategy-ux
+File Name: C:\Downloaded Web Sites\www.justynajones.com\premier-holidays-strategy-ux-1.html
+Content Type: text/html
+
+Uri: http://www.justynajones.com/travelex-money-card-ux-ui
+File Name: C:\Downloaded Web Sites\www.justynajones.com\travelex-money-card-ux-ui-1.html
+Content Type: text/html
+
+Uri: http://www.justynajones.com/wire-b2c-ux-ui
+File Name: C:\Downloaded Web Sites\www.justynajones.com\wire-b2c-ux-ui-1.html
+Content Type: text/html
+
+Uri: http://www.justynajones.com/work
+File Name: C:\Downloaded Web Sites\www.justynajones.com\work-1.html
+Content Type: text/html
+
+Uri: http://www.justynajones.com/work?format=rss
+File Name: C:\Downloaded Web Sites\www.justynajones.com\work
+Content Type: application/rss+xml
+
+Uri: https://assets.squarespace.com/@sqs/polyfiller/1.6/legacy.js
+File Name: C:\Downloaded Web Sites\www.justynajones.com\@sqs\polyfiller\1.6\legacy.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/@sqs/polyfiller/1.6/modern.js
+File Name: C:\Downloaded Web Sites\www.justynajones.com\@sqs\polyfiller\1.6\modern.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/fonts/social-20141119/social-icon-font.eot
+File Name: C:\Downloaded Web Sites\www.justynajones.com\universal\fonts\social-20141119\social-icon-font.eot
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/fonts/social-20141119/social-icon-font.eot?
+File Name: C:\Downloaded Web Sites\www.justynajones.com\universal\fonts\social-20141119\social-icon-font-1.eot
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/fonts/social-20141119/social-icon-font.svg
+File Name: C:\Downloaded Web Sites\www.justynajones.com\universal\fonts\social-20141119\social-icon-font.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.squarespace.com/universal/fonts/social-20141119/social-icon-font.ttf
+File Name: C:\Downloaded Web Sites\www.justynajones.com\universal\fonts\social-20141119\social-icon-font.ttf
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/fonts/social-20141119/social-icon-font.woff
+File Name: C:\Downloaded Web Sites\www.justynajones.com\universal\fonts\social-20141119\social-icon-font.woff
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/fonts/squarespace-ui-font.eot
+File Name: C:\Downloaded Web Sites\www.justynajones.com\universal\fonts\squarespace-ui-font.eot
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/fonts/squarespace-ui-font.eot?
+File Name: C:\Downloaded Web Sites\www.justynajones.com\universal\fonts\squarespace-ui-font-1.eot
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/fonts/squarespace-ui-font.svg
+File Name: C:\Downloaded Web Sites\www.justynajones.com\universal\fonts\squarespace-ui-font.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.squarespace.com/universal/fonts/squarespace-ui-font.ttf
+File Name: C:\Downloaded Web Sites\www.justynajones.com\universal\fonts\squarespace-ui-font.ttf
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/fonts/squarespace-ui-font.woff
+File Name: C:\Downloaded Web Sites\www.justynajones.com\universal\fonts\squarespace-ui-font.woff
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/edit-aviary-light.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\universal\images-v6\damask\edit-aviary-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/edit-aviary-light@2x.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\universal\images-v6\damask\edit-aviary-light@2x.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/edit-info-light.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\universal\images-v6\damask\edit-info-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/edit-info-light@2x.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\universal\images-v6\damask\edit-info-light@2x.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/error-dark.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\universal\images-v6\damask\error-dark.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/error-dark@2x.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\universal\images-v6\damask\error-dark@2x.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/getty-16-light.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\universal\images-v6\damask\getty-16-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/getty-32-light.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\universal\images-v6\damask\getty-32-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/image-inside-128-dark.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\universal\images-v6\damask\image-inside-128-dark.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/image-inside-64-dark.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\universal\images-v6\damask\image-inside-64-dark.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/play-button.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\universal\images-v6\damask\play-button.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/play-button@2x.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\universal\images-v6\damask\play-button@2x.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/shopping-cart-16-light.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\universal\images-v6\damask\shopping-cart-16-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/shopping-cart-32-light.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\universal\images-v6\damask\shopping-cart-32-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/trash-9-light.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\universal\images-v6\damask\trash-9-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/trash-9-light@2x.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\universal\images-v6\damask\trash-9-light@2x.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/trash-9-red.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\universal\images-v6\damask\trash-9-red.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/trash-9-red@2x.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\universal\images-v6\damask\trash-9-red@2x.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/icons/block-indicator-dark.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\universal\images-v6\icons\block-indicator-dark.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/icons/block-indicator-dark@2x.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\universal\images-v6\icons\block-indicator-dark@2x.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/icons/icon-searchqueries-20-dark.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\universal\images-v6\icons\icon-searchqueries-20-dark.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/icons/icon-searchqueries-20-light.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\universal\images-v6\icons\icon-searchqueries-20-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/icons/icon-settings-16-light.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\universal\images-v6\icons\icon-settings-16-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/icons/icon-video-24-light-solid.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\universal\images-v6\icons\icon-video-24-light-solid.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/icons/opentable-icons.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\universal\images-v6\icons\opentable-icons.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/icons/opentable-icons.svg
+File Name: C:\Downloaded Web Sites\www.justynajones.com\universal\images-v6\icons\opentable-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.squarespace.com/universal/images-v6/standard/icon_close_7_light.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\universal\images-v6\standard\icon_close_7_light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-ebb5521f1537302c83345-min.en-US.js
+File Name: C:\Downloaded Web Sites\www.justynajones.com\universal\scripts-compressed\cldr-resource-pack-ebb5521f1537302c83345-min.en-US.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/common-82545d05df1744d70ab26-min.en-US.js
+File Name: C:\Downloaded Web Sites\www.justynajones.com\universal\scripts-compressed\common-82545d05df1744d70ab26-min.en-US.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/common-d35db4582a2cbc61aa008-min.en-US.js
+File Name: C:\Downloaded Web Sites\www.justynajones.com\universal\scripts-compressed\common-d35db4582a2cbc61aa008-min.en-US.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/common-vendors-ca998c7dbdb66b29ad427-min.en-US.js
+File Name: C:\Downloaded Web Sites\www.justynajones.com\universal\scripts-compressed\common-vendors-ca998c7dbdb66b29ad427-min.en-US.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-ad6fc5b14d9d8d4da42d6-min.en-US.js
+File Name: C:\Downloaded Web Sites\www.justynajones.com\universal\scripts-compressed\common-vendors-stable-ad6fc5b14d9d8d4da42d6-min.en-US.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-5082e2dab696b020ac83a-min.en-US.js
+File Name: C:\Downloaded Web Sites\www.justynajones.com\universal\scripts-compressed\extract-css-moment-js-vendor-5082e2dab696b020ac83a-min.en-US.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-3d6d918a40898bf4c726f-min.en-US.js
+File Name: C:\Downloaded Web Sites\www.justynajones.com\universal\scripts-compressed\extract-css-runtime-3d6d918a40898bf4c726f-min.en-US.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-8ac43c2d16b389ced7f02-min.en-US.js
+File Name: C:\Downloaded Web Sites\www.justynajones.com\universal\scripts-compressed\extract-css-runtime-8ac43c2d16b389ced7f02-min.en-US.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/performance-07180fc57f792069a06b1-min.en-US.js
+File Name: C:\Downloaded Web Sites\www.justynajones.com\universal\scripts-compressed\performance-07180fc57f792069a06b1-min.en-US.js
+Content Type: text/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Chivo:ital,wght@0,400;0,900;1,400;1,900
+File Name: C:\Downloaded Web Sites\www.justynajones.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/chivo/v18/va9b4kzIxd1KFppkaRKvDRPJVDf_FRjulw.ttf
+File Name: C:\Downloaded Web Sites\www.justynajones.com\s\chivo\v18\va9b4kzIxd1KFppkaRKvDRPJVDf_FRjulw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/chivo/v18/va9b4kzIxd1KFppkaRKvDRPJVDf_vB_ulw.ttf
+File Name: C:\Downloaded Web Sites\www.justynajones.com\s\chivo\v18\va9b4kzIxd1KFppkaRKvDRPJVDf_vB_ulw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/chivo/v18/va9Z4kzIxd1KFrBtW-13ZHhT-jDqdFwG1GrW.ttf
+File Name: C:\Downloaded Web Sites\www.justynajones.com\s\chivo\v18\va9Z4kzIxd1KFrBtW-13ZHhT-jDqdFwG1GrW.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/chivo/v18/va9Z4kzIxd1KFrBtW-13ZHhT-jDqdFyv02rW.ttf
+File Name: C:\Downloaded Web Sites\www.justynajones.com\s\chivo\v18\va9Z4kzIxd1KFrBtW-13ZHhT-jDqdFyv02rW.ttf
+Content Type: font/ttf
+
+Uri: https://images.squarespace-cdn.com/
+File Name: C:\Downloaded Web Sites\www.justynajones.com\index-2.htm
+Content Type: 
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1537801052878-JZPB5KZQKY3FV0XBNS6B/IMG_0398.JPG
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1537801052878-JZPB5KZQKY3FV0XBNS6B\IMG_0398.JPG
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1537807850920-TLU48SOAL1Q8OLA5R30N/Dev+Centre+Designing+on+the+go.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1537807850920-TLU48SOAL1Q8OLA5R30N\Dev Centre Designing on the go.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1537810276530-LAAPHQVBUYVOO1L36RCB/Screen+Shot+2018-09-24+at+18.17.42.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1537810276530-LAAPHQVBUYVOO1L36RCB\Screen Shot 2018-09-24 at 18.17.42.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1537820953933-96KTFYT8MCSPDYMBYY23/TMC+tablet.jpg
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1537820953933-96KTFYT8MCSPDYMBYY23\TMC tablet.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1537823105143-X5I0ALT85ID6D1B99JOW/Buy+new+card+(1).jpeg
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1537823105143-X5I0ALT85ID6D1B99JOW\Buy new card (1).jpeg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1537823164880-5KPLCCDX34A2BMD8M33M/Activate+card+and+create+an+account++(1).jpeg
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1537823164880-5KPLCCDX34A2BMD8M33M\Activate card and create an account  (1).jpeg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1537823291827-09LSUFDQFLF4JPN7PCT1/Get+and+activate+the+card+(1).jpeg
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1537823291827-09LSUFDQFLF4JPN7PCT1\Get and activate the card (1).jpeg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1537824430035-LIZ6VUVCKRDM8RYGPJHC/user+flow.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1537824430035-LIZ6VUVCKRDM8RYGPJHC\user flow.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1537824572067-GZGGIONZYIBAWJVSQYON/user+flow2.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1537824572067-GZGGIONZYIBAWJVSQYON\user flow2.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1537825247118-6TY2EBL7B8ZGUQ47D7VQ/TMC+page+main+nav+expanded+option+1[1].png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1537825247118-6TY2EBL7B8ZGUQ47D7VQ\TMC page main nav expanded option 1[1].png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1537825274333-2DK86RX3NWG88VRVTOB0/TMC+page+main+nav+expanded+option+2[1].png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1537825274333-2DK86RX3NWG88VRVTOB0\TMC page main nav expanded option 2[1].png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1537825293823-3GDDIOL1Q2WP6CHVFA48/image-asset.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1537825293823-3GDDIOL1Q2WP6CHVFA48\image-asset.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1537825820935-PTF7AQ7J93HEW41J7FSG/Screen+Shot+2018-09-24+at+22.49.10.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1537825820935-PTF7AQ7J93HEW41J7FSG\Screen Shot 2018-09-24 at 22.49.10.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1537827245006-GDZJ5WNS1NX7J4GX3UC4/TMC+landing.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1537827245006-GDZJ5WNS1NX7J4GX3UC4\TMC landing.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1537827395059-LYO9EATMZKY6A058LMQJ/Screen+Shot+2018-09-24+at+23.13.24.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1537827395059-LYO9EATMZKY6A058LMQJ\Screen Shot 2018-09-24 at 23.13.24.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1537827739932-GV48NXQFPI5Y506KQVPA/Screen+Shot+2018-09-24+at+21.16.22.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1537827739932-GV48NXQFPI5Y506KQVPA\Screen Shot 2018-09-24 at 21.16.22.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1537828078309-4W6LAAVJ7SST6TP5JVNQ/Cash+passports+landing.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1537828078309-4W6LAAVJ7SST6TP5JVNQ\Cash passports landing.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1537828132953-LR3I9I6KWVY0U3BQMZ0M/FAQs.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1537828132953-LR3I9I6KWVY0U3BQMZ0M\FAQs.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1537828954583-7CSSH8RDLBBI3MC9YXED/Version+with+widgets.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1537828954583-7CSSH8RDLBBI3MC9YXED\Version with widgets.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1537866506718-SR788O4JEMY1XBC45VKK/trustpilot+review.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1537866506718-SR788O4JEMY1XBC45VKK\trustpilot review.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1537866575223-JSZWND5882HUJDK7ULQ6/Cards.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1537866575223-JSZWND5882HUJDK7ULQ6\Cards.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1537867199314-QNNXLZWQ6PP6I9OZ0FD2/Reload+card+and+manage+(1).jpeg
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1537867199314-QNNXLZWQ6PP6I9OZ0FD2\Reload card and manage (1).jpeg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1537867906575-WBUVEVXG4BE0GQGP310Y/Customer+journey_v.0.2.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1537867906575-WBUVEVXG4BE0GQGP310Y\Customer journey_v.0.2.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1537868322947-GWPDZNJYQ7LZ7W3CANW3/Product+page.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1537868322947-GWPDZNJYQ7LZ7W3CANW3\Product page.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1537868401441-89HPMP9D5KDAAJ4TLTZS/Help+%26+contact+form
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1537868401441-89HPMP9D5KDAAJ4TLTZS\Help & contact form
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1537868539833-ENJEMF648V9MAH2QTIHK/Screen+Shot+2018-09-24+at+18.01.50.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1537868539833-ENJEMF648V9MAH2QTIHK\Screen Shot 2018-09-24 at 18.01.50.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1537871227634-9P5T0VTNOMXR4D49WV4E/Screen+Shot+2018-09-25+at+11.12.57.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1537871227634-9P5T0VTNOMXR4D49WV4E\Screen Shot 2018-09-25 at 11.12.57.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1537871401318-6I0N38GIDL1K0J6XUJKI/Ethos+pathos+logos.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1537871401318-6I0N38GIDL1K0J6XUJKI\Ethos pathos logos.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1537871542013-7NECJTD1LRWUMGABMN5B/Screen+Shot+2018-09-25+at+11.14.21.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1537871542013-7NECJTD1LRWUMGABMN5B\Screen Shot 2018-09-25 at 11.14.21.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1537872016821-NM9AMH00ZWYZ4F9Q04RY/Referral+explorations.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1537872016821-NM9AMH00ZWYZ4F9Q04RY\Referral explorations.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1537872067308-EWN2G8LJIVQPPIZLYODI/Referral.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1537872067308-EWN2G8LJIVQPPIZLYODI\Referral.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1537876834336-IEZGDG5E7SQ3LNY200I3/Comp+analysis+features.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1537876834336-IEZGDG5E7SQ3LNY200I3\Comp analysis features.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1537876872110-HPBKW3C94KVT64W3IG23/Mabey+quadrant.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1537876872110-HPBKW3C94KVT64W3IG23\Mabey quadrant.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1537877452239-3DYRIXYTJ9Y0VX2GVUJX/userflow2.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1537877452239-3DYRIXYTJ9Y0VX2GVUJX\userflow2.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1537877498326-IDP5XCR8KHSQU52EPUG1/userjourney.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1537877498326-IDP5XCR8KHSQU52EPUG1\userjourney.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1537877894012-J8T6XQEXTQNA1NW7NOYP/Mabey+customer+interviews.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1537877894012-J8T6XQEXTQNA1NW7NOYP\Mabey customer interviews.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1537877919671-42NPEHXYYFG221KDGM29/stakeholderinterviews.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1537877919671-42NPEHXYYFG221KDGM29\stakeholderinterviews.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1537877946593-Y956WZ9XF5R4UYDRT604/customer+needs.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1537877946593-Y956WZ9XF5R4UYDRT604\customer needs.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1537878025014-TPZHZAF9OWZ7FSTBPCHV/Bob.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1537878025014-TPZHZAF9OWZ7FSTBPCHV\Bob.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1537878065174-JNA086F1CNHNASEV3G7Z/Jake.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1537878065174-JNA086F1CNHNASEV3G7Z\Jake.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1537878103760-0VJYTG0RO0PY4SI1JPB4/Mike.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1537878103760-0VJYTG0RO0PY4SI1JPB4\Mike.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1537878148854-B0ZI4IWCZ07QOSZKSWDE/Rupert.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1537878148854-B0ZI4IWCZ07QOSZKSWDE\Rupert.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1537878433617-5A5IXSJ1VBPNPOL657N0/sketches.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1537878433617-5A5IXSJ1VBPNPOL657N0\sketches.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1537878530917-0GG3CII86PGD5CMPCK1F/Mabeyonimac.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1537878530917-0GG3CII86PGD5CMPCK1F\Mabeyonimac.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1537881928929-HNZMKFB8VO83NNGWXG1Y/mabey9.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1537881928929-HNZMKFB8VO83NNGWXG1Y\mabey9.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1537881948225-T3Z2Z1GQEP5RBLOA5TMH/mabey10.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1537881948225-T3Z2Z1GQEP5RBLOA5TMH\mabey10.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1537883062697-K6Y3QNO6UTT7Q2ENV9QJ/Mabey+canvas.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1537883062697-K6Y3QNO6UTT7Q2ENV9QJ\Mabey canvas.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1537884206508-UERCUT5I8S8S5FUYRNIZ/companalysis.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1537884206508-UERCUT5I8S8S5FUYRNIZ\companalysis.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1537884241923-VY7T0FXE04XJBE4J2MZH/Goalsneedspainpoints.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1537884241923-VY7T0FXE04XJBE4J2MZH\Goalsneedspainpoints.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1537884282866-AKYDRAFCJ7SMZ62R8JK2/EC_personas.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1537884282866-AKYDRAFCJ7SMZ62R8JK2\EC_personas.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1537884343202-LHYC4S8U1IM2MNTOP8S1/story+map.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1537884343202-LHYC4S8U1IM2MNTOP8S1\story map.png
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1537887164948-0JCH61E0FJPB27JSSIAK/Screen+Shot+2018-09-25+at+15.52.04.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1537887164948-0JCH61E0FJPB27JSSIAK\Screen Shot 2018-09-25 at 15.52.04.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1537887818571-RCQDLCMQAM5DXF74X89I/EU+DESKTOP.jpg
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1537887818571-RCQDLCMQAM5DXF74X89I\EU DESKTOP.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1537887841056-3YXS5G5IARU9SZPCWS9A/EU+MOB.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1537887841056-3YXS5G5IARU9SZPCWS9A\EU MOB.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1537888659653-CGSKMJD2QNZDW1NPP0TN/stakeholders.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1537888659653-CGSKMJD2QNZDW1NPP0TN\stakeholders.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1537888707038-5ZP4HC284WGNTVOODU4G/companalysis.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1537888707038-5ZP4HC284WGNTVOODU4G\companalysis.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1537888918157-HBXALSJ22WMRQBRH8USC/Kuoni.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1537888918157-HBXALSJ22WMRQBRH8USC\Kuoni.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1537888941309-CTDMJJ0PIUJNU5PODU24/Blacktom.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1537888941309-CTDMJJ0PIUJNU5PODU24\Blacktom.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1537888986418-0XF05MQ3U7JZ1UBGEE9D/Quotes.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1537888986418-0XF05MQ3U7JZ1UBGEE9D\Quotes.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1537889035861-H9IACOUYCR7TNOCE3GC1/personas2.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1537889035861-H9IACOUYCR7TNOCE3GC1\personas2.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1537889163880-0UZ6F5PZU9GC41RVMPJN/Bespoke_userflow.JPG
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1537889163880-0UZ6F5PZU9GC41RVMPJN\Bespoke_userflow.JPG
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1537889186074-P9ABQ423ZVYJFAXJ26ZO/bespoke_userjourney.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1537889186074-P9ABQ423ZVYJFAXJ26ZO\bespoke_userjourney.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1537889392852-LGP59OIVMAOUN56TI4D5/sketches.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1537889392852-LGP59OIVMAOUN56TI4D5\sketches.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1537889561927-G8A7DXY8RZXPIWSOA4JA/Jenny.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1537889561927-G8A7DXY8RZXPIWSOA4JA\Jenny.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1537889582973-WO3DDBGPH6RDCA8N607J/Hazel.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1537889582973-WO3DDBGPH6RDCA8N607J\Hazel.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1537889600424-RI4QBV6DEUPI6L0FHY9I/Rosemary.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1537889600424-RI4QBV6DEUPI6L0FHY9I\Rosemary.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1537890384474-HXR8YZSLU5VNLRRQHWHI/Screen+Shot+2018-09-25+at+16.45.20.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1537890384474-HXR8YZSLU5VNLRRQHWHI\Screen Shot 2018-09-25 at 16.45.20.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1537890412993-TOL1R5UZ9U8Y8JPCOCAY/Screen+Shot+2018-09-25+at+16.45.47.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1537890412993-TOL1R5UZ9U8Y8JPCOCAY\Screen Shot 2018-09-25 at 16.45.47.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1537894357002-2H4BF8KSC4L3XZHKNHDR/favicon.ico?format=100w
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1537894357002-2H4BF8KSC4L3XZHKNHDR\favicon.ico
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1538582013048-XKNB3IAGS0LZ5IZ0G842/Screen+Shot+2018-10-03+at+16.53.01.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1538582013048-XKNB3IAGS0LZ5IZ0G842\Screen Shot 2018-10-03 at 16.53.01.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1538668145023-WFY70N127V9PV59D7A0T/Screen+Shot+2018-10-04+at+16.48.39.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1538668145023-WFY70N127V9PV59D7A0T\Screen Shot 2018-10-04 at 16.48.39.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1538668324216-OSQ1XZT1M0DLSPSXHNEJ/Screen+Shot+2018-10-04+at+16.51.42.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1538668324216-OSQ1XZT1M0DLSPSXHNEJ\Screen Shot 2018-10-04 at 16.51.42.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1538668412949-ELIVB0QVEH0UWY7F3R9S/Screen+Shot+2018-10-04+at+16.53.10.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1538668412949-ELIVB0QVEH0UWY7F3R9S\Screen Shot 2018-10-04 at 16.53.10.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1538669599451-O92ZNNV1GDKRRO48IVHK/user+management+1.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1538669599451-O92ZNNV1GDKRRO48IVHK\user management 1.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1538669620305-0STY0ZVBEGOEH52QAALC/user+management+2.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1538669620305-0STY0ZVBEGOEH52QAALC\user management 2.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1538670509175-VI5NSZ3NDF9YXKJPYT6S/DEV+CENTRE+4.JPG
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1538670509175-VI5NSZ3NDF9YXKJPYT6S\DEV CENTRE 4.JPG
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1538670543400-FOHRWW1192MZSCPSPZEQ/DEV+CENTRE+1.JPG
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1538670543400-FOHRWW1192MZSCPSPZEQ\DEV CENTRE 1.JPG
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1538670560574-NV90KDVRFNF6SLUWP9Q2/DEV+CENTRE+2.JPG
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1538670560574-NV90KDVRFNF6SLUWP9Q2\DEV CENTRE 2.JPG
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1538670592123-10IV6QMTP97DSL5I1ME5/DEV+CENTRE+3.JPG
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1538670592123-10IV6QMTP97DSL5I1ME5\DEV CENTRE 3.JPG
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1538670605582-I5RNFLF7CO8SE6N2RAEC/DEV+CENTRE+5.JPG
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1538670605582-I5RNFLF7CO8SE6N2RAEC\DEV CENTRE 5.JPG
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1538739506199-AMGYEL8EFFAJVWL412U0/Multitenancy.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1538739506199-AMGYEL8EFFAJVWL412U0\Multitenancy.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1538739715455-1PKV802UXSDSCWTFDSR0/Screen+Shot+2018-10-05+at+12.41.14.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1538739715455-1PKV802UXSDSCWTFDSR0\Screen Shot 2018-10-05 at 12.41.14.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1557260622638-HLOUXHH3PW4TAEK4WFIW/Service+design+blueprint+in-app.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1557260622638-HLOUXHH3PW4TAEK4WFIW\Service design blueprint in-app.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1557260660224-SYS8HTZFB55SMG1OTR7B/Service+design+blueprint+customer+support.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1557260660224-SYS8HTZFB55SMG1OTR7B\Service design blueprint customer support.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1557260732609-VJ75PT4UWV7EE6BDCUK2/Ecosystem+map+v.0.5%403x.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1557260732609-VJ75PT4UWV7EE6BDCUK2\Ecosystem map v.0.5@3x.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1557262525605-FN79L6PS5J9W0X7HL6K0/Alignment+wall.PNG
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1557262525605-FN79L6PS5J9W0X7HL6K0\Alignment wall.PNG
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1557262590463-WIURA2DFKU7HBFOS6GOC/Samsung%2Bwireframes%2Bannotations.jpg
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1557262590463-WIURA2DFKU7HBFOS6GOC\Samsung+wireframes+annotations.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1557262679087-L9K9WHVQ0YGPGMWPITLU/Service%2Bblueprint%2B%25281%253A2%2529.jpg
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1557262679087-L9K9WHVQ0YGPGMWPITLU\Service+blueprint+%281%3A2%29.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1557263254112-AGDJDDFY6RBPJUMAQMAM/SERVICE+BLUEPRINT_+delayed+payment.PNG
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1557263254112-AGDJDDFY6RBPJUMAQMAM\SERVICE BLUEPRINT_ delayed payment.PNG
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1557263353740-RYCO431URRKBSZ9E12EN/Amar%401x.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1557263353740-RYCO431URRKBSZ9E12EN\Amar@1x.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1557263372467-YVFSTWOI2IL4CH8012Z1/Juan.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1557263372467-YVFSTWOI2IL4CH8012Z1\Juan.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1557263446415-6TMX1DDMU0ER7NAA3Q1V/Empathy+map+1.PNG
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1557263446415-6TMX1DDMU0ER7NAA3Q1V\Empathy map 1.PNG
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1557265377307-FE9K5U85VFLCUI6RWNLH/ipad-pro-next-to-the-coffee-and-croissant.jpg
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1557265377307-FE9K5U85VFLCUI6RWNLH\ipad-pro-next-to-the-coffee-and-croissant.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1565868373887-R58D5Y7HV4M7Q9ASYPPM/image.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1565868373887-R58D5Y7HV4M7Q9ASYPPM\image.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1622150878416-ZM3JH0TDYEU4BC8BNOQ5/Screenshot+2021-05-27+at+22.20.58.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1622150878416-ZM3JH0TDYEU4BC8BNOQ5\Screenshot 2021-05-27 at 22.20.58.png
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1622152313087-R6OKTVELYMSRQE8SCKWD/customers.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1622152313087-R6OKTVELYMSRQE8SCKWD\customers.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1622152319072-ETPIXZ6N4AM4H6PRRWFV/what+we+did.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1622152319072-ETPIXZ6N4AM4H6PRRWFV\what we did.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1622152438374-NSYB9JD32GHH15TD491V/ins45.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1622152438374-NSYB9JD32GHH15TD491V\ins45.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1622152438600-N6BQIJ3PWOKFDVDXKXWH/ins3.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1622152438600-N6BQIJ3PWOKFDVDXKXWH\ins3.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1622152442042-BT55ZY525YZMXJ9KLJ8Q/ins7.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1622152442042-BT55ZY525YZMXJ9KLJ8Q\ins7.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1622152442604-VOX6904KT3U9UEK6IUYY/ins8.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1622152442604-VOX6904KT3U9UEK6IUYY\ins8.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1622154025405-6U6CSYAS1YK64FM326QJ/quest2.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1622154025405-6U6CSYAS1YK64FM326QJ\quest2.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1622154025407-4LS1OW73KF42BL4849E4/quest1.png
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1622154025407-4LS1OW73KF42BL4849E4\quest1.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1622497483143-NESA428CRJNX4X8Z8BJW/girl.jpeg
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1622497483143-NESA428CRJNX4X8Z8BJW\girl.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1622497555193-PHL5E4HAJ9PM09XMU94M/spacex-Ptd-iTdrCJM-unsplash.jpg
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1622497555193-PHL5E4HAJ9PM09XMU94M\spacex-Ptd-iTdrCJM-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1622497761250-7CVJHJ9ROKS3XNIG2ZGL/devcentre2.jpeg
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1622497761250-7CVJHJ9ROKS3XNIG2ZGL\devcentre2.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1622497996275-0CR76E007WK5856WYSID/B2B%2BHEADER.jpeg
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1622497996275-0CR76E007WK5856WYSID\B2B+HEADER.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1622498192713-PR205K2QQ2EOZDBTUOF6/wire.jpeg
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1622498192713-PR205K2QQ2EOZDBTUOF6\wire.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1622498285657-T81C2TZU6QS47SD8L8FP/MABEY%2Bheader.jpeg
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1622498285657-T81C2TZU6QS47SD8L8FP\MABEY+header.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/5b97ec3a4cde7abfd97e62c3/1622498342762-7W54XP1N6SBWAE3NQ220/PH%2BHEADER.jpeg
+File Name: C:\Downloaded Web Sites\www.justynajones.com\content\v1\5b97ec3a4cde7abfd97e62c3\1622498342762-7W54XP1N6SBWAE3NQ220\PH+HEADER.jpeg
+Content Type: image/jpeg
+
+Uri: https://static1.squarespace.com/static/5b97ec3a4cde7abfd97e62c3/t/60ed2bf72ae47d2ac91fc948/1626156035084/Justyna+Jones+CV.pdf
+File Name: C:\Downloaded Web Sites\www.justynajones.com\static\5b97ec3a4cde7abfd97e62c3\t\60ed2bf72ae47d2ac91fc948\1626156035084\Justyna Jones CV.pdf
+Content Type: application/pdf
+
+Uri: https://static1.squarespace.com/static/sitecss/5b97ec3a4cde7abfd97e62c3/49/55dccafee4b04b8e0d7b6d4d/5b97ec3a4cde7abfd97e62d9/962/site.css
+File Name: C:\Downloaded Web Sites\www.justynajones.com\static\sitecss\5b97ec3a4cde7abfd97e62c3\49\55dccafee4b04b8e0d7b6d4d\5b97ec3a4cde7abfd97e62d9\962\site.css
+Content Type: text/css
+
+Uri: https://static1.squarespace.com/static/ta/55dccaa0e4b0f748d9f6f215/962/scripts/site-bundle.js
+File Name: C:\Downloaded Web Sites\www.justynajones.com\static\ta\55dccaa0e4b0f748d9f6f215\962\scripts\site-bundle.js
+Content Type: application/javascript
+
+Uri: https://use.typekit.net/ik/XbzfqeKfOchmbm7RFpn3Q__yEoN7psLj07tPdl6_EIMfeltgfFHN4UJLFRbh52jhWDmK5Qi8jDFyFeFqZQiyjcZq5Qi8FR4RwU7wMPG0-1mDiY80jATzdcmDO1FUiABkZWF3jAF8OcFzdPU7iWFXpAoy-cN0ZWw0jhNlOeTuSasodcB7dho8SkoDSWmyScmDSeBRZPoRdhXCdeNRjAUGdaFXOYiaiko7iWFXpAoy-cN0ZWw0jhNlOYiaiko7iWFXpAoy-cN0ZWw0SaBujW48Sagyjh90jhNlJymk-ASlShNC-AbldAmq-WmlOAZTde37f6KT7MJbMg6BJMHbMipt7lXB.js
+File Name: C:\Downloaded Web Sites\www.justynajones.com\ik\XbzfqeKfOchmbm7RFpn3Q__yEoN7psLj07tPdl6_EIMfeltgfFHN4UJLFRbh52jhWDmK5Qi8jDFyFeFqZQiyjcZq5Qi8FR4RwU7wMPG0-1mDiY80jATzdcmDO1FUiABkZWF3jAF8OcFzdPU7iWFXpAoy-cN0ZWw0jhNlOeTuSasodcB7dho8SkoDSWmyScmDSeBRZPoRdhXCdeN.js
+Content Type: text/javascript
+
+Uri: https://www.justynajones.com/
+File Name: C:\Downloaded Web Sites\www.justynajones.com\index.htm
+Content Type: text/html
+
+Uri: https://www.justynajones.com/about-me
+File Name: C:\Downloaded Web Sites\www.justynajones.com\about-me.html
+Content Type: text/html
+
+Uri: https://www.justynajones.com/b2b-platform-ux-ui
+File Name: C:\Downloaded Web Sites\www.justynajones.com\b2b-platform-ux-ui.html
+Content Type: text/html
+
+Uri: https://www.justynajones.com/contact
+File Name: C:\Downloaded Web Sites\www.justynajones.com\contact.html
+Content Type: text/html
+
+Uri: https://www.justynajones.com/developer-centre
+File Name: C:\Downloaded Web Sites\www.justynajones.com\developer-centre.html
+Content Type: text/html
+
+Uri: https://www.justynajones.com/eu-referendum-microsite-ux
+File Name: C:\Downloaded Web Sites\www.justynajones.com\eu-referendum-microsite-ux.html
+Content Type: text/html
+
+Uri: https://www.justynajones.com/international-payments-service-design
+File Name: C:\Downloaded Web Sites\www.justynajones.com\international-payments-service-design.html
+Content Type: text/html
+
+Uri: https://www.justynajones.com/mabey-bridge-ux
+File Name: C:\Downloaded Web Sites\www.justynajones.com\mabey-bridge-ux.html
+Content Type: text/html
+
+Uri: https://www.justynajones.com/money-transfer-user-testing
+File Name: C:\Downloaded Web Sites\www.justynajones.com\money-transfer-user-testing.html
+Content Type: text/html
+
+Uri: https://www.justynajones.com/premier-holidays-strategy-ux
+File Name: C:\Downloaded Web Sites\www.justynajones.com\premier-holidays-strategy-ux.html
+Content Type: text/html
+
+Uri: https://www.justynajones.com/travelex-money-card-ux-ui
+File Name: C:\Downloaded Web Sites\www.justynajones.com\travelex-money-card-ux-ui.html
+Content Type: text/html
+
+Uri: https://www.justynajones.com/wire-b2c-ux-ui
+File Name: C:\Downloaded Web Sites\www.justynajones.com\wire-b2c-ux-ui.html
+Content Type: text/html
+
+Uri: https://www.justynajones.com/work
+File Name: C:\Downloaded Web Sites\www.justynajones.com\work.html
+Content Type: text/html
+
